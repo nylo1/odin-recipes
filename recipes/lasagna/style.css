@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+h1 {
+    color: darkgoldenrod;
+}
+.p1{
+    color: purple;
+    font-weight: 300;
+
+}
+.o2{
+    color: darkblue;
+    font-size: 40px;
+}
+.ol3{
+    color: peru;
+}

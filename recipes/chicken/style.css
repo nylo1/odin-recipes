@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+
+}
+h1{
+    color: lightblue;
+    text-align: center;
+    font-weight: bold;
+}
+.why{
+    color: green;
+    font-weight: bold;
+
+}
+.one{
+    color: yellow;
+    font-weight: 800;
+}
+.two{
+    color: black;
+    font-weight: 800;
+}
