@@ -1,8 +1,16 @@
 html{
     background-color: grey;
 }
-h1{
-    color: green;
+.one {
+    background-color: red;
+    border: 30px black;
+    margin: 50px;
+    padding: 50px;
     text-align: center;
-    font: 800;
+}
+.two {
+    background-color: magenta;
+    border: 5px green;
+    box-sizing: border-box;
+
 }
